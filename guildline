@@ -1,0 +1,21 @@
+1. Các định nghĩa cơ bản về testcase và cách tạo bộ test
+
++ Testcase là gì
+
++ Tại sao phải tạo các testcase
+
++ Thế nào là một testcase tốt
+
++ Cấu trúc cơ bản của một test case
+
++ Các trường hợp của test case
+
++ Các phương pháp thực hiện test
+
++ Các lưu ý khi tạo bộ test
+
+2. Kiểm thử tự động chương trình
+
++ Khái niệm kiểm thử tự động chương trình
+
++ Kiểm thử đơn vị tự động bằng PyUnit của Python
