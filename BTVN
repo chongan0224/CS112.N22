@@ -1,0 +1,34 @@
+Viết test case cho các bài toán sau, trình bày theo dạng bảng gồm 3 cột:
+  - 1: Input
+  - 2: Output
+  - 3: Note, trình bày trường hợp test case muốn nhắm đến
+ (Tương tự slide số 17)
+ Yêu cầu đảm bảo các tiêu chí của một bộ test
+------------------------------------------------------------Deadline 23h59 tối chủ nhật (2/3/2023)----------------------------------------------------------------------
+
+Bài 1: Xác định tam giác
+Viết chương trình nhập vào 3 số thực. Hãy cho biết đó có phải là độ dài 3 cạnh 1 tam giác hay không?
+Nếu phải thì đó là loại nào trong 4 loại sau: tam giác thường, cân, đều, vuông.
+
+Nếu là tam giác tính diện tích tam giác.
+
+INPUT:
+
+Dòng đầu tiên là độ dài cạnh 1.
+
+Dòng thứ hai là độ dài cạnh 2.
+
+Dòng thứ ba là độ dài cạnh 3.
+
+OUTPUT
+
+Diện tích làm tròn 02 chữ số sau dấu thập phân.
+
+
+Bài 2: Định dạng thời gian
+Thay đổi hiển thị thời gian từ định dạng giờ 12 sang định dạng giờ 24
+
+Input: Nhập vào thời gian theo định dạng giờ 12 có AM,PM
+
+Output: Xuất ra màn hình thời gian theo định dạng giờ 24
+
