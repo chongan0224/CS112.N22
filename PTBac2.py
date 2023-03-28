@@ -43,7 +43,7 @@ class TestMethods(unittest.TestCase):
 
     def test_1(self): #Kiểm tra chạy bình thường
         self.assertEqual(XuLy(1,2,1),"-1")
-    def test_2(self): #Kiểm tra chạy bình thường
+    def test_2(self): 
         self.assertEqual(XuLy(1,2,3), "VN")
     def test_3(self):
         self.assertEqual(XuLy(1,-5,6),"2 3")
@@ -66,7 +66,7 @@ class TestMethods(unittest.TestCase):
     def test_12(self): #Kiểm tra phương trình có hệ số a = 0
         self.assertEqual(XuLy(0,-2,5), "2.5")
     def test_13(self): #Kiểm tra phương trình có hệ số b = 0
-        self.assertEqual(XuLy(5,0,5), "1")
+        self.assertEqual(XuLy(5,0,-5), "-1 1")
     def test_14(self): #Kiểm tra phương trình vô nghiệm
         self.assertEqual(XuLy(2,4,15), "VN")
     def test_15(self): #Kiểm tra phương trình vô số nghiệm
@@ -74,7 +74,7 @@ class TestMethods(unittest.TestCase):
 # if _name_ == '_main_': 
 #     unittest.main() 
 
-suite = unittest.TestLoader().loadTestsFromTestCase(TestStringMethods)
+suite = unittest.TestLoader().loadTestsFromTestCase(TestMethods)
 unittest.TextTestRunner(verbosity=2).run(suite)'''
 
 import math
