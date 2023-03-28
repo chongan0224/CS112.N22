@@ -33,7 +33,7 @@ Diện tích làm tròn 02 chữ số sau dấu thập phân.
 Bài 2: Định dạng thời gian
 Thay đổi hiển thị thời gian từ định dạng giờ 12 sang định dạng giờ 24
 
-Input: Nhập vào thời gian theo định dạng giờ 12 có AM,PM
+INPUT: Nhập vào thời gian theo định dạng giờ 12 có AM,PM
 
-Output: Xuất ra màn hình thời gian theo định dạng giờ 24
+OUTPUT: Xuất ra màn hình thời gian theo định dạng giờ 24
 
