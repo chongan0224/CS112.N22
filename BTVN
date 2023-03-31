@@ -12,7 +12,7 @@ Viết test case cho các bài toán sau, trình bày theo dạng bảng gồm 3
 ------------------------------------------------------------Deadline 23h59 tối chủ nhật (2/4/2023)----------------------------------------------------------------------
 
 Bài 1: Xác định tam giác
-Viết chương trình nhập vào 3 số thực. Hãy cho biết đó có phải là độ dài 3 cạnh 1 tam giác hay không?
+Viết chương trình nhập vào 3 số nguyên. Hãy cho biết đó có phải là độ dài 3 cạnh 1 tam giác hay không?
 Nếu phải thì đó là loại nào trong 4 loại sau: tam giác thường, cân, đều, vuông.
 
 Nếu là tam giác tính diện tích tam giác.
